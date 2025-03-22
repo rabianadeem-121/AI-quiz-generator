@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1600" dy="851" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FAF4FF" math="0" shadow="1">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-27" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="229" y="100" width="340" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pQE8G-Jgc_vHfBXzye9s-27" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="User enters topic, difficulty, quiz type" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="pQE8G-Jgc_vHfBXzye9s-27" vertex="1">
+          <mxGeometry x="80" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pQE8G-Jgc_vHfBXzye9s-27" source="WIyWlLk6GJQsqaUBKTNV-7" target="pQE8G-Jgc_vHfBXzye9s-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;li class=&quot;&quot; data-end=&quot;370&quot; data-start=&quot;320&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;370&quot; data-start=&quot;322&quot;&gt;Backend generates quiz using AI&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;427&quot; data-start=&quot;371&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;427&quot; data-start=&quot;373&quot;&gt;&lt;/p&gt;&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="pQE8G-Jgc_vHfBXzye9s-27" vertex="1">
+          <mxGeometry x="75" y="200" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pQE8G-Jgc_vHfBXzye9s-27" source="pQE8G-Jgc_vHfBXzye9s-0" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" />
+              <mxPoint x="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-0" value="User opens app" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="pQE8G-Jgc_vHfBXzye9s-27">
+          <mxGeometry x="80" y="10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pQE8G-Jgc_vHfBXzye9s-27" source="pQE8G-Jgc_vHfBXzye9s-12" target="pQE8G-Jgc_vHfBXzye9s-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-12" value="User takes the quiz &amp;amp; submits answers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="pQE8G-Jgc_vHfBXzye9s-27">
+          <mxGeometry x="65" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pQE8G-Jgc_vHfBXzye9s-27" source="pQE8G-Jgc_vHfBXzye9s-14" target="pQE8G-Jgc_vHfBXzye9s-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-14" value="User takes the quiz &amp;amp; submits answers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="pQE8G-Jgc_vHfBXzye9s-27">
+          <mxGeometry x="65" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pQE8G-Jgc_vHfBXzye9s-27" source="pQE8G-Jgc_vHfBXzye9s-16" target="pQE8G-Jgc_vHfBXzye9s-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="pQE8G-Jgc_vHfBXzye9s-27" target="pQE8G-Jgc_vHfBXzye9s-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="350" as="targetPoint" />
+            <mxPoint x="100" y="535" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint y="535" />
+              <mxPoint y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pQE8G-Jgc_vHfBXzye9s-27" source="pQE8G-Jgc_vHfBXzye9s-16" target="pQE8G-Jgc_vHfBXzye9s-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-16" value="Did user complete the quiz?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="pQE8G-Jgc_vHfBXzye9s-27">
+          <mxGeometry x="92.5" y="490" width="95" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-18" value="Show results &amp;amp; save progress" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="pQE8G-Jgc_vHfBXzye9s-27">
+          <mxGeometry x="230" y="507.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-20" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pQE8G-Jgc_vHfBXzye9s-27">
+          <mxGeometry x="170" y="504.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-23" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pQE8G-Jgc_vHfBXzye9s-27">
+          <mxGeometry x="32.5" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQE8G-Jgc_vHfBXzye9s-24" value="User sees results &amp;amp; progress is saved" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="pQE8G-Jgc_vHfBXzye9s-27">
+          <mxGeometry x="65" y="610" width="150" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
